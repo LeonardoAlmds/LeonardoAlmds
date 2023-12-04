@@ -2,7 +2,9 @@
 
  <div>
    <a href="https://github.com/LeonardoAlmds">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeonardoAlmds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LeonardoAlmds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <br>
+    <br>
    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LeonardoAlmds&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
