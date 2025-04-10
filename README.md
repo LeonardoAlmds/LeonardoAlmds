@@ -1,16 +1,16 @@
-<h1 align="left">Hi There!</h1>
+<h1 align="left">Seja Bem-Vindo 🚀</h1>
 
 ###
 
-<p align="left">My name is Leonardo, but you can call me Lex, and I'm a software developer from Brazil.</p>
+<p align="left">😃 Meu nome é Leonardo Almeida</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim?</h2>
 
 ###
 
-<p align="left">👾 Creating bugs since: 2020 <br>📚 Currently reading: 1984 by George Orwell <br>🎯 Goals: Specialize in Java and Learning English <br>🎲 Fun fact: I like to play LOL and Albion Online</p>
+<p align="left">💻 Sou Desenvolvedor De Software <br/> <br/>☕ Atualmente focado em Java e React <br/> <br/>  👨‍🎓 Estou cursando Ciência da Computação </p>
 
 ###
 
