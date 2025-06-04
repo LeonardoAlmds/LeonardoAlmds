@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 Sou Desenvolvedor De Software <br/> <br/>☕ Atualmente focado em Java e React <br/> <br/>  👨‍🎓 Estou cursando Ciência da Computação </p>
+<p align="left">💻 Sou Desenvolvedor De Software <br/> <br/>☕ Atualmente focado em PHP<br/> <br/>  👨‍🎓 Estou cursando Ciência da Computação </p>
 
 ###
 
